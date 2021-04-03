@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-02T23:23:30" hostname="Oyundaris-MacBook-Pro.local" time="0.893">
+  <properties/>
+  <testcase name="testExecutors" classname="Tests" time="0.893"/>
+  <system-out><![CDATA[Ioniq: odo:220.0 - miles left:0.0...Charging
+Kona: odo:250.0 - miles left:0.0...Charging
+Ioniq: odo:440.0 - miles left:0.0...Charging
+Kona: odo:500.0 - miles left:0.0...Charging
+Ioniq: odo:660.0 - miles left:0.0...Charging
+Kona: odo:750.0 - miles left:0.0...Charging
+Ioniq: odo:880.0 - miles left:0.0...Charging
+Finish:Kona: odo:1000.0 - miles left:0.0
+Finish:Ioniq: odo:1000.0 - miles left:100.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

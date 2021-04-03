@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-03T00:01:30" hostname="Oyundaris-MacBook-Pro.local" time="11.007">
+  <properties/>
+  <testcase name="testWebPageEditor" classname="Tests" time="11.006"/>
+  <testcase name="testWebPage" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[...Saved
+WebPageEditor@4b9408bf
+]]></system-out>
+  <system-err><![CDATA[Exception in thread "Thread-4" java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1540)
+	at WebPageEditor.start(WebPageEditor.java:36)
+	at Tests.lambda$testWebPageEditor$0(Tests.java:33)
+	at java.lang.Thread.run(Thread.java:748)
+]]></system-err>
+</testsuite>

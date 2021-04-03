@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-02T23:06:15" hostname="Oyundaris-MacBook-Pro.local" time="0.791">
+  <properties/>
+  <testcase name="testCar" classname="Tests" time="0.002"/>
+  <testcase name="testRacer" classname="Tests" time="0.789"/>
+  <system-out><![CDATA[Tesla: odo:260.0 - miles left:0.0...Charging
+Tesla: odo:520.0 - miles left:0.0...Charging
+Tesla: odo:780.0 - miles left:0.0...Charging
+Finish:Tesla: odo:1000.0 - miles left:40.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
